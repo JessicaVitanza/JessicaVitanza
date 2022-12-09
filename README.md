@@ -10,6 +10,7 @@ Coding : <br>
 ![image](https://user-images.githubusercontent.com/103486794/206673230-12319baf-ed91-4a04-bda6-c4ba63855a71.png)
 ![image](https://user-images.githubusercontent.com/103486794/206673098-dc58ba41-6e7c-4069-9279-6b9ae2c2730b.png)
 ![image](https://user-images.githubusercontent.com/103486794/206673179-4829a253-777f-40a1-b95d-84ce65dc0c23.png)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 
 SOON :<br>
@@ -22,12 +23,11 @@ Tools and Technologies :<br>
 ![image](https://user-images.githubusercontent.com/103486794/206675653-eff2acc0-2949-4dd3-ad5a-93f2b2fdefb4.png)
 
 
-
-
-
 UI :<br>
 ![image](https://user-images.githubusercontent.com/103486794/206673303-91c617a5-8d53-4813-9dc9-7ae83b4e05f5.png)
 ![image](https://user-images.githubusercontent.com/103486794/206673425-77b98137-ec18-4977-a830-d85b6f3a81bd.png)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 
