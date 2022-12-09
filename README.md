@@ -37,6 +37,6 @@ UI :<br>
 
 
 Social : <br>
-<a href=”[https://www.linkedin.com/in/yushi95/](https://www.linkedin.com/in/jessica-vitanza-2b53b1208/)"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/yushi95/](https://www.linkedin.com/in/jessica-vitanza-2b53b1208/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 ![](https://komarev.com/ghpvc/?username=JessicaVitanza)
