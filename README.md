@@ -1,6 +1,4 @@
-### Ciao! 👋
-Sono Jessica Vitanza,
-Benvenuti sul mio profilo!
+### Ciao! 👋 Sono Jessica Vitanza, benvenuti sul mio profilo!
 
 <!--
 **JessicaVitanza/JessicaVitanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
