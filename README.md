@@ -37,9 +37,9 @@ UI :<br>
 
 
 Social : <br>
-<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Pixel perfect - Flaticon</a>
-<a href="https://www.linkedin.com/in/jessica-vitanza-2b53b1208/" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
-<a href="jessicavitanza20@gmail.com" title="gmail icons">Gmail icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons"></a>
+<a href="https://www.linkedin.com/in/jessica-vitanza-2b53b1208/" title="linkedin icons"></a>
+<a href="jessicavitanza20@gmail.com" title="gmail icons"></a>
 
 
 ![](https://komarev.com/ghpvc/?username=JessicaVitanza)
