@@ -12,7 +12,6 @@ Coding : <br>
 ![image](https://user-images.githubusercontent.com/103486794/206673179-4829a253-777f-40a1-b95d-84ce65dc0c23.png)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-
 Soon :<br>
 ![image](https://user-images.githubusercontent.com/103486794/206673277-33f94f31-1d20-4205-a7fe-12993574a377.png)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -27,17 +26,8 @@ Tools and Technologies :<br>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![image](https://user-images.githubusercontent.com/103486794/206679692-949b8af2-3a6e-403f-8e61-62d63e1a5dfb.png)
 
-
-
 UI :<br>
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-Social : <br>
-![Adobe Illustrator](https://www.linkedin.com/in/yushi95/)
-
-
-![](https://komarev.com/ghpvc/?username=JessicaVitanza)
