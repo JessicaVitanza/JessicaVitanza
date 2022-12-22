@@ -41,4 +41,5 @@ Contact : <br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JessicaVitanza&theme=blue-green)](https://github.com/JessicaVitanza/github-readme-stats)
+[![Jessica Vitanza's github stats](https://github-readme-stats.vercel.app/api?username=JessicaVitanza&theme=blue-green)](https://github.com/JessicaVitanza/github-readme-stats)
+
