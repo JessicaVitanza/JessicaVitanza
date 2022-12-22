@@ -7,7 +7,7 @@
 🏠 nata a Palermo ma vivo in Liguria
 
 Coding : <br>
-![image](https://user-images.githubusercontent.com/103486794/206673152-49c4c6c5-2f24-48de-a92b-81ac8fe8db06.png)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://user-images.githubusercontent.com/103486794/206673230-12319baf-ed91-4a04-bda6-c4ba63855a71.png)
 ![image](https://user-images.githubusercontent.com/103486794/206673098-dc58ba41-6e7c-4069-9279-6b9ae2c2730b.png)
 ![image](https://user-images.githubusercontent.com/103486794/206673179-4829a253-777f-40a1-b95d-84ce65dc0c23.png)
