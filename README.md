@@ -11,10 +11,10 @@ Coding : <br>
 ![image](https://user-images.githubusercontent.com/103486794/206673230-12319baf-ed91-4a04-bda6-c4ba63855a71.png)
 ![image](https://user-images.githubusercontent.com/103486794/206673098-dc58ba41-6e7c-4069-9279-6b9ae2c2730b.png)
 ![image](https://user-images.githubusercontent.com/103486794/206673179-4829a253-777f-40a1-b95d-84ce65dc0c23.png)
+![image](https://user-images.githubusercontent.com/103486794/206673277-33f94f31-1d20-4205-a7fe-12993574a377.png)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 Soon :<br>
-![image](https://user-images.githubusercontent.com/103486794/206673277-33f94f31-1d20-4205-a7fe-12993574a377.png)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
