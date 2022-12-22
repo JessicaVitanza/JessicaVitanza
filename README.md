@@ -17,6 +17,7 @@ Coding : <br>
 Soon :<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Ciao](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 Tools and Technologies :<br>
 ![image](https://user-images.githubusercontent.com/103486794/206672669-e4bbddea-0ac1-4a54-938d-bc2b554ae526.png)
