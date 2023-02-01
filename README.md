@@ -1,12 +1,12 @@
 # Ciao! 👋 sono Jessica Vitanza, benvenuti sul mio profilo!
 
-👩🏻‍💻 sono un junior front-end developer e UI designer <br>
-🪴 ho una urban jungle con più di 60 piante! <br>
-🏄🏻‍♀️ amo lo sport e pratico surf, snowboard, calisthenics, yoga e tanto altro.. <br>
-🌱 sono vegana da 2 anni e rispetto la natura sotto ogni sua forma! <br>
-🏠 nata a Palermo ma vivo in Liguria
+## 👩🏻‍💻 sono un junior front-end developer e UI designer <br>
+##🪴 ho una urban jungle con più di 60 piante! <br>
+## 🏄🏻‍♀️ amo lo sport e pratico surf, snowboard, calisthenics, yoga e tanto altro.. <br>
+## 🌱 sono vegana da 2 anni e rispetto la natura sotto ogni sua forma! <br>
+## 🏠 nata a Palermo ma vivo in Liguria
 
-## Coding : <br>
+### Coding : <br>
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://user-images.githubusercontent.com/103486794/206673230-12319baf-ed91-4a04-bda6-c4ba63855a71.png)
 ![image](https://user-images.githubusercontent.com/103486794/206673098-dc58ba41-6e7c-4069-9279-6b9ae2c2730b.png)
