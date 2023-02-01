@@ -6,7 +6,7 @@
 🌱 sono vegana da 2 anni e rispetto la natura sotto ogni sua forma! <br>
 🏠 nata a Palermo ma vivo in Liguria
 
-Coding : <br>
+## Coding : <br>
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://user-images.githubusercontent.com/103486794/206673230-12319baf-ed91-4a04-bda6-c4ba63855a71.png)
 ![image](https://user-images.githubusercontent.com/103486794/206673098-dc58ba41-6e7c-4069-9279-6b9ae2c2730b.png)
@@ -17,14 +17,14 @@ Coding : <br>
 ![image](https://user-images.githubusercontent.com/103486794/216060257-649ca916-9cd7-4da0-8713-aefbf6d23c46.png)
 
 
-Soon :<br>
+## Soon :<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-Tools and Technologies :<br>
+## Tools and Technologies :<br>
 ![image](https://user-images.githubusercontent.com/103486794/206672669-e4bbddea-0ac1-4a54-938d-bc2b554ae526.png)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://user-images.githubusercontent.com/103486794/206672773-2609e556-69a8-4278-9a17-99129f899b99.png)
@@ -32,7 +32,7 @@ Tools and Technologies :<br>
 ![image](https://user-images.githubusercontent.com/103486794/206675653-eff2acc0-2949-4dd3-ad5a-93f2b2fdefb4.png)
 ![image](https://user-images.githubusercontent.com/103486794/206679692-949b8af2-3a6e-403f-8e61-62d63e1a5dfb.png)
 
-UI :<br>
+## UI :<br>
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
