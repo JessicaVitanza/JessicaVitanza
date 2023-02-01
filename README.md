@@ -1,4 +1,4 @@
-### Ciao! 👋 sono Jessica Vitanza, benvenuti sul mio profilo!
+# Ciao! 👋 sono Jessica Vitanza, benvenuti sul mio profilo!
 
 👩🏻‍💻 sono un junior front-end developer e UI designer <br>
 🪴 ho una urban jungle con più di 60 piante! <br>
