@@ -1,6 +1,6 @@
 # Ciao! 👋 sono Jessica Vitanza, benvenuti sul mio profilo!
 
-### 👩🏻‍💻 sono un junior front-end developer e UI designer <br>
+### 👩🏻‍💻  Sono un junior front-end developer e UI designer <br>
 
 ### ➡️ <a href="https://www.linkedin.com/in/jessica-vitanza-2b53b1208/">Linkedin</a> <br>
 
