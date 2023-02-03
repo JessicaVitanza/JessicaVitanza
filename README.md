@@ -1,7 +1,6 @@
 # Ciao! 👋 sono Jessica Vitanza, benvenuti sul mio profilo!
 
-### ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-<a href="https://www.linkedin.com/in/jessica-vitanza-2b53b1208/">Linkedin</a>
+### ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)<a href="https://www.linkedin.com/in/jessica-vitanza-2b53b1208/">Linkedin</a>
 
 ### <a href="https://jessica-vitanza-portfolio.vercel.app/">Portfolio</a>
 
