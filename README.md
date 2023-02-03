@@ -1,8 +1,8 @@
 # Ciao! 👋 sono Jessica Vitanza, benvenuti sul mio profilo!
 
-# <a href="https://www.linkedin.com/in/jessica-vitanza-2b53b1208/">Linkedin</a>
+### <a href="https://www.linkedin.com/in/jessica-vitanza-2b53b1208/">Linkedin</a>
 
-# <a href="https://jessica-vitanza-portfolio.vercel.app/">Linkedin</a>
+### <a href="https://jessica-vitanza-portfolio.vercel.app/">Portfolio</a>
 
 
 
