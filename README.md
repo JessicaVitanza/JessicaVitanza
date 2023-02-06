@@ -1,10 +1,6 @@
-# Ciao! 👋 sono Jessica Vitanza, benvenuti sul mio profilo!
+# <p align="center"> Ciao! 👋 sono Jessica Vitanza, benvenuti sul mio profilo! </p>
 
-### 👩🏻‍💻  Sono un junior front-end developer e UI designer <br>
-
-### ➡️ <a href="https://www.linkedin.com/in/jessica-vitanza-2b53b1208/">Linkedin</a> <br>
-
-### ✏️ <a href="https://jessica-vitanza-portfolio.vercel.app/">Portfolio</a>
+### <p align="center"> Sono un Junior Front-end Developer e UI designer </p> 
 
 ## Coding : <br>
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,4 +37,10 @@
 <br>
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaVitanza&theme=blue-white)](https://github.com/JessicaVitanza/github-readme-stats)
+
+
+
+### ➡️ <a href="https://www.linkedin.com/in/jessica-vitanza-2b53b1208/">Linkedin</a>  
+### ✏️ <a href="https://jessica-vitanza-portfolio.vercel.app/">Portfolio</a>
+
 
