@@ -40,7 +40,9 @@
 
 <br>
 
-
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesare-Tomasello&layout=compact&theme=default%22/%3E"</p>
+<p> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Cesare-Tomasello&theme=default%22/%3E"</p>
+<p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=Cesare-Tomasello&theme=default&margin-w=4%22/%3E"</p>
 
 <br>
 
