@@ -40,8 +40,6 @@
 
 <br>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaVitanza&layout=compact&theme=default%22/%3E"</p>
-<p> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=JessicaVitanza&theme=default%22/%3E"</p>
 <p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=JessicaVitanza&theme=default&margin-w=4%22/%3E"</p>
 
 <br>
